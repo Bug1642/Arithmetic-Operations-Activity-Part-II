@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\bin\Debug\net9.0\Arithmetic2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\bin\Debug\net9.0\Arithmetic2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\bin\Debug\net9.0\Arithmetic2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\bin\Debug\net9.0\Arithmetic2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\bin\Debug\net9.0\Arithmetic2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\refint\Arithmetic2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\Arithmetic2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Arithmetic2\obj\Debug\net9.0\ref\Arithmetic2.dll
